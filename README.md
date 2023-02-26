@@ -3,7 +3,7 @@
 Airline Analysis
 In this project, I’ll imagine that I work for a travel agency and need to know the ins and outs of airline prices for my clients. I want to make sure that I can find the best deal for my client and help them to understand how airline prices change based on different factors.
 
-U decide to look into my favorite airline. The data include:
+I decide to look into my favorite airline. The data include:
 
 miles: miles traveled through the flight
 passengers: number of passengers on the flight
